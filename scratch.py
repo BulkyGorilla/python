@@ -11,3 +11,5 @@ for add in range(number_added):
 print("Item in stock is")
 for show in stock_list:
     print(,show)
+
+print("End Program")
