@@ -10,6 +10,8 @@ for add in range(number_added):
 
 print("Item in stock is")
 for show in stock_list:
-    print(,show)
+    print(stock_list)
 
 
+username_added = str(input("Please type your username? : " "\n"))
+print(username_added)
